@@ -1,2 +1,2 @@
-# calculator
+# Maquiapp
 ### this is a heading
